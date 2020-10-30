@@ -8,6 +8,7 @@ class GulimailProductApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println(666);
     }
 
 }
